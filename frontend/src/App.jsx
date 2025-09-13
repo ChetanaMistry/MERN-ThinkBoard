@@ -1,8 +1,7 @@
 import {Route, Routes} from "react-router";
-import Homepage from "./pages/Homepage";
+import Homepage from "./pages/HomePage";
 import CreatePage from "./pages/CreatePage";
 import NoteDetailPage from "./pages/NoteDetailPage";
-import toast from "react-hot-toast";
 
 const App = () => {
   return (
